@@ -1,20 +1,17 @@
-# Sales Dashboard in Microsoft Excel
-<br>
-An interactive sales dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, KPIs, and Slicers to analyze sales performance.
+# Sales Dashboard (Excel)
+
+An interactive sales dashboard built in Microsoft Excel, analyzing sales performance across region, category, segment, and sub-category.
 
 ## Features
-- Dynamic KPIs
-- Interactive Slicers
-- Pivot Tables & Pivot Charts
-- Sales Trend Analysis
-- Regional, Category, Segment, and Sub-Category Analysis
+- Pivot Tables summarizing sales by multiple dimensions
+- KPI cards for at-a-glance performance metrics
+- Pivot Charts visualizing trends
+- Slicers for interactive filtering by region/category/segment
 
-## Tools Used
-- Microsoft Excel 2010
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Visualization
+## How to view
+1. Download `Sales_Dashboard.xlsx`
+2. Open in Microsoft Excel (Slicers and Pivot Charts require Excel — won't render fully in Google Sheets)
+3. Use the Slicers to filter the dashboard by region, category, or segment
 
 ## Dashboard Preview
 
@@ -22,8 +19,8 @@ An interactive sales dashboard built in Microsoft Excel using Pivot Tables, Pivo
 
 <img width="1366" height="728" alt="Screenshot 2 (Bottom)" src="https://github.com/user-attachments/assets/9c941479-845c-4520-97ed-5c5c29ce6733" />
 
-
-
 ## Files
 - `Sales_Dashboard.xlsx`
 - Dashboard screenshots
+## Author
+Samiha Salam Oyshee
