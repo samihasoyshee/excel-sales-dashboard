@@ -15,9 +15,11 @@ An interactive sales dashboard built in Microsoft Excel, analyzing sales perform
 
 ## Dashboard Preview
 
-<img width="1366" height="728" alt="Screenshot 1 (Top)" src="https://github.com/user-attachments/assets/f924b044-407d-4c57-a15e-f407f07f2360" />
+<img width="1366" height="728" alt="top" src="https://github.com/user-attachments/assets/dfbff3ad-1988-4e4e-ae03-4bedb10d07b8" />
 
-<img width="1366" height="728" alt="Screenshot 2 (Bottom)" src="https://github.com/user-attachments/assets/9c941479-845c-4520-97ed-5c5c29ce6733" />
+<img width="1366" height="728" alt="bottom" src="https://github.com/user-attachments/assets/b944e67c-0644-48fc-9d74-0908b757ec8f" />
+
+
 
 ## Files
 - `Sales_Dashboard.xlsx`
